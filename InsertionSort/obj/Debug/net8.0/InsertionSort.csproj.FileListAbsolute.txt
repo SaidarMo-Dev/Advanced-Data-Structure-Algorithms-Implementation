@@ -1,0 +1,14 @@
+C:\Algorithms\InsertionSort\InsertionSort\bin\Debug\net8.0\InsertionSort.exe
+C:\Algorithms\InsertionSort\InsertionSort\bin\Debug\net8.0\InsertionSort.deps.json
+C:\Algorithms\InsertionSort\InsertionSort\bin\Debug\net8.0\InsertionSort.runtimeconfig.json
+C:\Algorithms\InsertionSort\InsertionSort\bin\Debug\net8.0\InsertionSort.dll
+C:\Algorithms\InsertionSort\InsertionSort\bin\Debug\net8.0\InsertionSort.pdb
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\InsertionSort.AssemblyInfo.cs
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\InsertionSort.dll
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\refint\InsertionSort.dll
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\InsertionSort.pdb
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\InsertionSort.genruntimeconfig.cache
+C:\Algorithms\InsertionSort\InsertionSort\obj\Debug\net8.0\ref\InsertionSort.dll
