@@ -1,0 +1,14 @@
+C:\Algorithms\DubbleSort\DubbleSort\bin\Debug\net8.0\DubbleSort.exe
+C:\Algorithms\DubbleSort\DubbleSort\bin\Debug\net8.0\DubbleSort.deps.json
+C:\Algorithms\DubbleSort\DubbleSort\bin\Debug\net8.0\DubbleSort.runtimeconfig.json
+C:\Algorithms\DubbleSort\DubbleSort\bin\Debug\net8.0\DubbleSort.dll
+C:\Algorithms\DubbleSort\DubbleSort\bin\Debug\net8.0\DubbleSort.pdb
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\DubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\DubbleSort.AssemblyInfoInputs.cache
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\DubbleSort.AssemblyInfo.cs
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\DubbleSort.csproj.CoreCompileInputs.cache
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\DubbleSort.dll
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\refint\DubbleSort.dll
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\DubbleSort.pdb
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\DubbleSort.genruntimeconfig.cache
+C:\Algorithms\DubbleSort\DubbleSort\obj\Debug\net8.0\ref\DubbleSort.dll
