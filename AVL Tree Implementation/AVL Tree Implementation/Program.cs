@@ -255,6 +255,33 @@ class AVLTree
 		return false;
 
 	}
+
+	public void PrintTree()
+	{
+		PrintTree(root, "", true);
+	}
+
+	private void PrintTree(AVLNode node, string indent, bool last)
+	{
+		if (node != null)
+		{
+			Console.Write(indent);
+			if (last)
+			{
+				Console.Write("R----");
+				indent += "     ";
+			}
+			else
+			{
+				Console.Write("L----");
+				indent += "|    ";
+			}
+			Console.WriteLine(node.Value);
+			PrintTree(node.Left, indent, false);
+			PrintTree(node.Right, indent, true);
+		}
+	}
+
 }
 
 class Program
