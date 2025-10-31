@@ -233,6 +233,28 @@ class AVLTree
 		return null;
 	}
 
+
+	public bool IsExist(int value)
+	{
+		return IsExist(root, value);
+	}
+	private bool IsExist(AVLNode node, int value)
+	{
+
+		if (node == null)
+			return false;
+
+		if (node.Value == value) return true;
+
+		if (value < node.Value)
+		{
+			return IsExist(node.Left, value);
+		}
+		else if (value > node.Value) return IsExist(node.Right, value);
+
+		return false;
+
+	}
 }
 
 class Program
