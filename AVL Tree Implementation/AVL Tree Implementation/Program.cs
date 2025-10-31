@@ -289,5 +289,33 @@ class Program
 	static void Main(string[] args)
 	{
 
+		AVLTree tree = new AVLTree();
+
+
+		// Inserting values
+		int[] values = { 1, 2, 32, 42, 45, 46 };
+		foreach (var value in values)
+		{
+			tree.Insert(value);
+		}
+
+		tree.PrintTree();
+
+
+		int valueToFind = 252;
+		//Console.WriteLine($"finding value {valueToFind}...");
+
+		//var nodeToFind = tree.Find(valueToFind);
+
+		//if (nodeToFind != null) Console.WriteLine($"the value {valueToFind} is found.");
+		//else Console.WriteLine($"the value {valueToFind}  not found.");
+
+		//if (tree.IsExist(valueToFind))
+		//	Console.WriteLine("Value exists");
+		//else
+		//	Console.WriteLine("Value not exists");
+
+
+		Console.ReadKey();
 	}
 }
