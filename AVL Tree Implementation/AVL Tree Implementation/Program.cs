@@ -211,6 +211,28 @@ class AVLTree
 		return current;
 	}
 
+
+	public AVLNode Find(int value)
+	{
+		return FindNode(root, value);
+	}
+	private AVLNode FindNode(AVLNode node, int value)
+	{
+
+		if (node == null)
+			return node;
+
+		if (node.Value == value) return node;
+
+		if (value < node.Value)
+		{
+			return FindNode(node.Left, value);
+		}
+		else if (value > node.Value) return FindNode(node.Right, value);
+
+		return null;
+	}
+
 }
 
 class Program
