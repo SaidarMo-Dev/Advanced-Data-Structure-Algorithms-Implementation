@@ -212,6 +212,23 @@
 			}
 		}
 
+		private Node FindNode(Node node, int value)
+		{
+
+			if (node == null || node.Value == value)
+				return node; // return node if found or null if not
+
+			if (value < node.Value)
+				return FindNode(node.Left, value); // Search in the left subtree
+			else
+				return FindNode(node.Right, value); // Search in the right subtree
+		}
+
+		// Public method to search for a value in the tree and return the node
+		public Node Find(int value)
+		{
+			return FindNode(root, value);
+		}
 	}
 	private static void Main(string[] args)
 	{
