@@ -33,21 +33,26 @@
 				newNode.IsRed = false;
 				return;
 			}
-
-			// Standar Binary Search Tree Insertion
-
+			// Standard Binary Search Tree insertion
 			Node current = root;
 			Node parent = null;
-
 			while (current != null)
 			{
 				parent = current;
-				if (current.Value < newValue)
+				if (newValue < current.Value)
 					current = current.Left;
-				else if (current.Value > newValue)
+				else
 					current = current.Right;
-
 			}
+
+			// Set the parent of the new node
+			newNode.Parent = parent;
+			if (newValue < parent.Value)
+				parent.Left = newNode;
+			else
+				parent.Right = newNode;
+
+
 
 		}
 	}
