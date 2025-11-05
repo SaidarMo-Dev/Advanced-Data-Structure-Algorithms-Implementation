@@ -53,8 +53,138 @@
 				parent.Right = newNode;
 
 
+			FixInsert(newNode);
 
 		}
+
+		// Method to restore Red-Black properties after insertion
+		private void FixInsert(Node node)
+		{
+			Node parent = null;
+			Node grandparent = null;
+
+			// Fix the tree as long as the node is not the root and both the node and its parent are red
+			while ((node != root) && (node.IsRed) && (node.Parent.IsRed))
+			{
+				parent = node.Parent;
+				grandparent = parent.Parent;
+
+				// Parent node is a left child
+				if (parent == grandparent.Left)
+				{
+					Node uncle = grandparent.Right; // Uncle node is the right child
+
+					// Case 1: The uncle is red (recoloring)
+					if (uncle != null && uncle.IsRed)
+					{
+						grandparent.IsRed = true; // Recolor grandparent to red
+						parent.IsRed = false; // Recolor parent to black
+						uncle.IsRed = false; // Recolor uncle to black
+						node = grandparent; // Move up the tree to continue fixing
+					}
+					else
+					{
+						// Case 2: Node is the right child of its parent (Triangle Case)
+						if (node == parent.Right)
+						{
+							// Perform left rotation on parent to transform the triangle case into the line case
+							RotateLeft(parent);
+							node = parent;
+							parent = node.Parent;
+						}
+
+						// Case 3: Node is now the left child of its parent (Line Case)
+						// Perform right rotation on grandparent to balance the tree
+						RotateRight(grandparent);
+						// Swap colors of parent and grandparent to maintain Red-Black properties
+						bool tmp = parent.IsRed;
+						parent.IsRed = grandparent.IsRed;
+						grandparent.IsRed = tmp;
+						node = parent;
+					}
+				}
+				else // Parent node is a right child
+				{
+					Node uncle = grandparent.Left; // Uncle node is the left child
+
+					// Case 1: The uncle is red (recoloring)
+					if (uncle != null && uncle.IsRed)
+					{
+						grandparent.IsRed = true; // Recolor grandparent to red
+						parent.IsRed = false; // Recolor parent to black
+						uncle.IsRed = false; // Recolor uncle to black
+						node = grandparent; // Move up the tree to continue fixing
+					}
+					else
+					{
+						// Case 2: Node is the left child of its parent (Triangle Case)
+						if (node == parent.Left)
+						{
+							// Perform right rotation on parent to transform the triangle case into the line case
+							RotateRight(parent);
+							node = parent;
+							parent = node.Parent;
+						}
+
+						// Case 3: Node is now the right child of its parent (Line Case)
+						// Perform left rotation on grandparent to balance the tree
+						RotateLeft(grandparent);
+						// Swap colors of parent and grandparent to maintain Red-Black properties
+						bool tmp = parent.IsRed;
+						parent.IsRed = grandparent.IsRed;
+						grandparent.IsRed = tmp;
+						node = parent;
+					}
+				}
+			}
+
+			root.IsRed = false; // Ensure the root remains black
+		}
+
+		// Rotate left pivots around the given node making the right child the parent of the pivoted node
+		private void RotateLeft(Node node)
+		{
+			Node right = node.Right; // Right child becomes the new root of the subtree
+			node.Right = right.Left; //< Move the left subtree of right to the right subtree of node>
+			if (node.Right != null)
+				node.Right.Parent = node; // Set parent of the new right child
+
+			right.Parent = node.Parent; // Connect new root with the grandparent
+
+			if (node.Parent == null)
+				root = right; // The right child becomes new root of the tree
+			else if (node == node.Parent.Left)
+				node.Parent.Left = right; // Set right child to left child of parent
+			else
+				node.Parent.Right = right; // Set right child to right child of parent
+
+			right.Left = node; // Original node becomes the left child of its right child
+			node.Parent = right; // Update parent of the original node
+		}
+
+
+		public void RotateRight(Node node)
+		{
+			Node left = node.Left; // Left child becomes the new root of the subtree
+			node.Left = left.Right; // Move the right subtree of left the left subtree of node
+
+			if (node.Left != null)
+				node.Left.Parent = node; // Set the parent of the new left child 
+
+			left.Parent = node.Parent; // Connect new root with the grandparent
+
+			if (node.Parent == null)
+				root = left; // The right child becomes new root of the tree
+			else if (node == node.Parent.Right)
+				node.Parent.Right = left; // Set left child to left child of parent
+			else
+				node.Parent.Left = left;// Set left child to right child of parent
+
+			left.Right = node; // Original node becomes the right child of its left child
+			node.Parent = left; // Update parent of the original node
+		}
+
+
 	}
 	private static void Main(string[] args)
 	{
