@@ -184,6 +184,33 @@
 			node.Parent = left; // Update parent of the original node
 		}
 
+		public void PrintTree()
+		{
+			PrintHelper(root, "", true);
+		}
+
+		// Helper method to print the tree
+		private void PrintHelper(Node node, string indent, bool last)
+		{
+			if (node != null)
+			{
+				Console.Write(indent);
+				if (last)
+				{
+					Console.Write("R----");
+					indent += "   ";
+				}
+				else
+				{
+					Console.Write("L----");
+					indent += "|  ";
+				}
+				var color = node.IsRed ? "RED" : "BLK";
+				Console.WriteLine(node.Value + "(" + color + ")");
+				PrintHelper(node.Left, indent, false);
+				PrintHelper(node.Right, indent, true);
+			}
+		}
 
 	}
 	private static void Main(string[] args)
