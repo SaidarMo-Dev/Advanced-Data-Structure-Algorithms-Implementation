@@ -57,6 +57,20 @@
 
 		}
 
+
+		public void PrintTree()
+		{
+			PrintHelper(root, "", true);
+		}
+
+
+		// Public method to search for a value in the tree and return the node
+		public Node Find(int value)
+		{
+			return FindNode(root, value);
+		}
+
+
 		// Method to restore Red-Black properties after insertion
 		private void FixInsert(Node node)
 		{
@@ -141,54 +155,6 @@
 			root.IsRed = false; // Ensure the root remains black
 		}
 
-		// Rotate left pivots around the given node making the right child the parent of the pivoted node
-		private void RotateLeft(Node node)
-		{
-			Node right = node.Right; // Right child becomes the new root of the subtree
-			node.Right = right.Left; //< Move the left subtree of right to the right subtree of node>
-			if (node.Right != null)
-				node.Right.Parent = node; // Set parent of the new right child
-
-			right.Parent = node.Parent; // Connect new root with the grandparent
-
-			if (node.Parent == null)
-				root = right; // The right child becomes new root of the tree
-			else if (node == node.Parent.Left)
-				node.Parent.Left = right; // Set right child to left child of parent
-			else
-				node.Parent.Right = right; // Set right child to right child of parent
-
-			right.Left = node; // Original node becomes the left child of its right child
-			node.Parent = right; // Update parent of the original node
-		}
-
-
-		public void RotateRight(Node node)
-		{
-			Node left = node.Left; // Left child becomes the new root of the subtree
-			node.Left = left.Right; // Move the right subtree of left the left subtree of node
-
-			if (node.Left != null)
-				node.Left.Parent = node; // Set the parent of the new left child 
-
-			left.Parent = node.Parent; // Connect new root with the grandparent
-
-			if (node.Parent == null)
-				root = left; // The right child becomes new root of the tree
-			else if (node == node.Parent.Right)
-				node.Parent.Right = left; // Set left child to left child of parent
-			else
-				node.Parent.Left = left;// Set left child to right child of parent
-
-			left.Right = node; // Original node becomes the right child of its left child
-			node.Parent = left; // Update parent of the original node
-		}
-
-		public void PrintTree()
-		{
-			PrintHelper(root, "", true);
-		}
-
 		// Helper method to print the tree
 		private void PrintHelper(Node node, string indent, bool last)
 		{
@@ -224,14 +190,92 @@
 				return FindNode(node.Right, value); // Search in the right subtree
 		}
 
-		// Public method to search for a value in the tree and return the node
-		public Node Find(int value)
+		// Rotate left pivots around the given node making the right child the parent of the pivoted node
+
+		private void RotateLeft(Node node)
 		{
-			return FindNode(root, value);
+			Node right = node.Right; // Right child becomes the new root of the subtree
+			node.Right = right.Left; //< Move the left subtree of right to the right subtree of node>
+			if (node.Right != null)
+				node.Right.Parent = node; // Set parent of the new right child
+
+			right.Parent = node.Parent; // Connect new root with the grandparent
+
+			if (node.Parent == null)
+				root = right; // The right child becomes new root of the tree
+			else if (node == node.Parent.Left)
+				node.Parent.Left = right; // Set right child to left child of parent
+			else
+				node.Parent.Right = right; // Set right child to right child of parent
+
+			right.Left = node; // Original node becomes the left child of its right child
+			node.Parent = right; // Update parent of the original node
 		}
+
+		// Rotate right pivots around the given node making the left child the parent of the pivoted node
+
+		private void RotateRight(Node node)
+		{
+			Node left = node.Left; // Left child becomes the new root of the subtree
+			node.Left = left.Right; // Move the right subtree of left the left subtree of node
+
+			if (node.Left != null)
+				node.Left.Parent = node; // Set the parent of the new left child 
+
+			left.Parent = node.Parent; // Connect new root with the grandparent
+
+			if (node.Parent == null)
+				root = left; // The right child becomes new root of the tree
+			else if (node == node.Parent.Right)
+				node.Parent.Right = left; // Set left child to left child of parent
+			else
+				node.Parent.Left = left;// Set left child to right child of parent
+
+			left.Right = node; // Original node becomes the right child of its left child
+			node.Parent = left; // Update parent of the original node
+		}
+
 	}
 	private static void Main(string[] args)
 	{
+		RedBlackTree rbTree = new RedBlackTree();
+
+		// Test values to be inserted into the tree
+		int[] values = { 10, 20, 30, 15, 25, 35, 5, 19 };
+		foreach (var value in values)
+		{
+			//  Console.WriteLine($"Inserting {value} to the tree\n");
+			rbTree.Insert(value);
+			// rbTree.PrintTree();
+			// Console.WriteLine("\n--------------------------------\n");
+		}
+		rbTree.PrintTree();
+		Console.WriteLine("\n--------------------------------\n");
+
+		// Search for a value in the tree
+		int searchValue = 15;
+		RedBlackTree.Node foundNode = rbTree.Find(searchValue);
+		if (foundNode != null)
+		{
+			Console.WriteLine($"Node with value {searchValue} found with color {(foundNode.IsRed ? "RED" : "BLACK")}");
+		}
+		else
+		{
+			Console.WriteLine($"Node with value {searchValue} not found");
+		}
+
+		searchValue = 100;
+		foundNode = rbTree.Find(searchValue);
+		if (foundNode != null)
+		{
+			Console.WriteLine($"Node with value {searchValue} found with color {(foundNode.IsRed ? "RED" : "BLACK")}");
+		}
+		else
+		{
+			Console.WriteLine($"Node with value {searchValue} not found");
+		}
+
+		Console.ReadKey();
 
 	}
 }
