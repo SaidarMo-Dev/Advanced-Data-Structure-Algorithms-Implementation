@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Red Black Tree/1.0.0": {
+        "runtime": {
+          "Red Black Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Red Black Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
