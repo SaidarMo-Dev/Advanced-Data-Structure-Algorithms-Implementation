@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\bin\Debug\net8.0\Graph-Traversal-DFS.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\bin\Debug\net8.0\Graph-Traversal-DFS.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\bin\Debug\net8.0\Graph-Traversal-DFS.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\bin\Debug\net8.0\Graph-Traversal-DFS.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\bin\Debug\net8.0\Graph-Traversal-DFS.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\Graph-Traversal-DFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\Graph-Traversal-DFS.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\Graph-Traversal-DFS.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\Graph-Traversal-DFS.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\Graph-Traversal-DFS.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\Graph-Traversal-DFS.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\refint\Graph-Traversal-DFS.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\Graph-Traversal-DFS.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\Graph-Traversal-DFS.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Graph-Traversal-DFS\Graph-Traversal-DFS\obj\Debug\net8.0\ref\Graph-Traversal-DFS.dll
