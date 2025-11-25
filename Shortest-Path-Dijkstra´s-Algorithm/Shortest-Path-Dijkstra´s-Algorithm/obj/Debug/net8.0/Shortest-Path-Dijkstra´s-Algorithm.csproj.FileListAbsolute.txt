@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\bin\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\bin\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\bin\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\bin\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\bin\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\refint\Shortest-Path-Dijkstra´s-Algorithm.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\Shortest-Path-Dijkstra´s-Algorithm.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Shortest-Path-Dijkstra´s-Algorithm\Shortest-Path-Dijkstra´s-Algorithm\obj\Debug\net8.0\ref\Shortest-Path-Dijkstra´s-Algorithm.dll
