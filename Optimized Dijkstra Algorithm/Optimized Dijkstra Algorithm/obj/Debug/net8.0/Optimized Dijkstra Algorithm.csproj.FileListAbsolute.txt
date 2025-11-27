@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\bin\Debug\net8.0\Optimized Dijkstra Algorithm.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\bin\Debug\net8.0\Optimized Dijkstra Algorithm.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\bin\Debug\net8.0\Optimized Dijkstra Algorithm.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\bin\Debug\net8.0\Optimized Dijkstra Algorithm.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\bin\Debug\net8.0\Optimized Dijkstra Algorithm.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\Optimized Dijkstra Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\Optimized Dijkstra Algorithm.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\Optimized Dijkstra Algorithm.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\Optimized Dijkstra Algorithm.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\Optimized Dijkstra Algorithm.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\Optimized Dijkstra Algorithm.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\refint\Optimized Dijkstra Algorithm.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\Optimized Dijkstra Algorithm.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\Optimized Dijkstra Algorithm.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Optimized Dijkstra Algorithm\Optimized Dijkstra Algorithm\obj\Debug\net8.0\ref\Optimized Dijkstra Algorithm.dll
