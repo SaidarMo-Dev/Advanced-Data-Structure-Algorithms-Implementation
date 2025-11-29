@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\Coin-Change-Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\Coin-Change-Problem.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\Coin-Change-Problem.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\Coin-Change-Problem.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\Coin-Change-Problem.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\bin\Debug\net8.0\Coin-Change-Problem.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\bin\Debug\net8.0\Coin-Change-Problem.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\bin\Debug\net8.0\Coin-Change-Problem.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\bin\Debug\net8.0\Coin-Change-Problem.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\bin\Debug\net8.0\Coin-Change-Problem.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\Coin-Change-Problem.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\refint\Coin-Change-Problem.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\Coin-Change-Problem.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\Coin-Change-Problem.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Coin-Change-Problem\Coin-Change-Problem\obj\Debug\net8.0\ref\Coin-Change-Problem.dll
