@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\bin\Debug\net8.0\Merge Two Sorted Queues.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\bin\Debug\net8.0\Merge Two Sorted Queues.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\bin\Debug\net8.0\Merge Two Sorted Queues.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\bin\Debug\net8.0\Merge Two Sorted Queues.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\bin\Debug\net8.0\Merge Two Sorted Queues.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\Merge Two Sorted Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\Merge Two Sorted Queues.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\Merge Two Sorted Queues.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\Merge Two Sorted Queues.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\Merge Two Sorted Queues.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\Merge Two Sorted Queues.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\refint\Merge Two Sorted Queues.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\Merge Two Sorted Queues.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\Merge Two Sorted Queues.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Merge Two Sorted Queues\Merge Two Sorted Queues\obj\Debug\net8.0\ref\Merge Two Sorted Queues.dll
