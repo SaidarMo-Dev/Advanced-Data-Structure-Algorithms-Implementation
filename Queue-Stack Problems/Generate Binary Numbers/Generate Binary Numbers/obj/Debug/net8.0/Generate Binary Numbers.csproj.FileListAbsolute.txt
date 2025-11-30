@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\Generate Binary Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\Generate Binary Numbers.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\Generate Binary Numbers.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\Generate Binary Numbers.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\Generate Binary Numbers.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\bin\Debug\net8.0\Generate Binary Numbers.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\bin\Debug\net8.0\Generate Binary Numbers.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\bin\Debug\net8.0\Generate Binary Numbers.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\bin\Debug\net8.0\Generate Binary Numbers.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\bin\Debug\net8.0\Generate Binary Numbers.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\Generate Binary Numbers.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\refint\Generate Binary Numbers.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\Generate Binary Numbers.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\Generate Binary Numbers.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Generate Binary Numbers\Generate Binary Numbers\obj\Debug\net8.0\ref\Generate Binary Numbers.dll
