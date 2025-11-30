@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\Rotate Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\Rotate Queue.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\Rotate Queue.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\Rotate Queue.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\Rotate Queue.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\bin\Debug\net8.0\Rotate Queue.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\bin\Debug\net8.0\Rotate Queue.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\bin\Debug\net8.0\Rotate Queue.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\bin\Debug\net8.0\Rotate Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\bin\Debug\net8.0\Rotate Queue.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\Rotate Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\refint\Rotate Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\Rotate Queue.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\Rotate Queue.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rotate Queue\Rotate Queue\obj\Debug\net8.0\ref\Rotate Queue.dll
