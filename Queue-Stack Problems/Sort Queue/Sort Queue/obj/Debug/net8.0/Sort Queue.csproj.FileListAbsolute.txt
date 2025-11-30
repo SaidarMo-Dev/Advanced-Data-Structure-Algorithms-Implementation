@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\bin\Debug\net8.0\Sort Queue.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\refint\Sort Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\Sort Queue.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Sort Queue\Sort Queue\obj\Debug\net8.0\ref\Sort Queue.dll
