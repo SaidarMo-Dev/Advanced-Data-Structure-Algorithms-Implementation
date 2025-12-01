@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement a Priority Queue", "Implement a Priority Queue\Implement a Priority Queue.csproj", "{338D4474-1196-487C-93E2-8599803F3180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338D4474-1196-487C-93E2-8599803F3180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338D4474-1196-487C-93E2-8599803F3180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338D4474-1196-487C-93E2-8599803F3180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338D4474-1196-487C-93E2-8599803F3180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68888260-EFA5-4489-A276-0DE4E0FAB824}
+	EndGlobalSection
+EndGlobal
