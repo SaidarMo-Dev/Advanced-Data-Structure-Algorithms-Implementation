@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\bin\Debug\net8.0\Rerange Queue Elements.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\bin\Debug\net8.0\Rerange Queue Elements.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\bin\Debug\net8.0\Rerange Queue Elements.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\bin\Debug\net8.0\Rerange Queue Elements.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\bin\Debug\net8.0\Rerange Queue Elements.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\Rerange Queue Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\Rerange Queue Elements.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\Rerange Queue Elements.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\Rerange Queue Elements.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\Rerange Queue Elements.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\Rerange Queue Elements.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\refint\Rerange Queue Elements.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\Rerange Queue Elements.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\Rerange Queue Elements.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Rerange Queue Elements\Rerange Queue Elements\obj\Debug\net8.0\ref\Rerange Queue Elements.dll
