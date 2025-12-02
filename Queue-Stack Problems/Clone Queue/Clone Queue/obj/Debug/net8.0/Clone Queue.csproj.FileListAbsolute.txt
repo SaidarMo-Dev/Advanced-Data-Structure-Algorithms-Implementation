@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\bin\Debug\net8.0\Clone Queue.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\bin\Debug\net8.0\Clone Queue.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\bin\Debug\net8.0\Clone Queue.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\bin\Debug\net8.0\Clone Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\bin\Debug\net8.0\Clone Queue.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\Clone Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\Clone Queue.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\Clone Queue.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\Clone Queue.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\Clone Queue.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\Clone Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\refint\Clone Queue.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\Clone Queue.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\Clone Queue.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Clone Queue\Clone Queue\obj\Debug\net8.0\ref\Clone Queue.dll
