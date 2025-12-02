@@ -23,13 +23,13 @@
 			}
 		}
 
-		return true;
+		return stack.Count == 0;
 	}
 
 
 	private static void Main(string[] args)
 	{
-		string parentess = "(){}";
+		string parentess = "(){}(";
 
 		Console.WriteLine(IsParenstesisValide(parentess));
 
