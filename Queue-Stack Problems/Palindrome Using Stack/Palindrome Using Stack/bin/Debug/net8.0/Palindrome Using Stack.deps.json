@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Palindrome Using Stack/1.0.0": {
+        "runtime": {
+          "Palindrome Using Stack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindrome Using Stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

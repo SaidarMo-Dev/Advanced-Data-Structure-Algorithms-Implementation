@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\bin\Debug\net8.0\Palindrome Using Stack.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\bin\Debug\net8.0\Palindrome Using Stack.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\bin\Debug\net8.0\Palindrome Using Stack.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\bin\Debug\net8.0\Palindrome Using Stack.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\bin\Debug\net8.0\Palindrome Using Stack.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\Palindrome Using Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\Palindrome Using Stack.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\Palindrome Using Stack.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\Palindrome Using Stack.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\Palindrome Using Stack.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\Palindrome Using Stack.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\refint\Palindrome Using Stack.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\Palindrome Using Stack.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\Palindrome Using Stack.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Palindrome Using Stack\Palindrome Using Stack\obj\Debug\net8.0\ref\Palindrome Using Stack.dll

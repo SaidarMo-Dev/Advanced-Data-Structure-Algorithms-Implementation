@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Using Stack", "Palindrome Using Stack\Palindrome Using Stack.csproj", "{CF3B76A2-023B-43C7-9FC8-4D65EA939904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3B76A2-023B-43C7-9FC8-4D65EA939904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3B76A2-023B-43C7-9FC8-4D65EA939904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3B76A2-023B-43C7-9FC8-4D65EA939904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3B76A2-023B-43C7-9FC8-4D65EA939904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0448F940-B50D-4A7A-BC38-FD06E045F5D0}
+	EndGlobalSection
+EndGlobal
