@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Median of Two Sorted Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD68A8F5-A3C5-4A28-BDE4-E53FD9E186BD}|Median of Two Sorted Arrays\\Median of Two Sorted Arrays.csproj|c:\\projects\\advanced-data-structure-algorithms-implementation\\median of two sorted arrays\\median of two sorted arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD68A8F5-A3C5-4A28-BDE4-E53FD9E186BD}|Median of Two Sorted Arrays\\Median of Two Sorted Arrays.csproj|solutionrelative:median of two sorted arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 382,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Median of Two Sorted Arrays\\Median of Two Sorted Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Median of Two Sorted Arrays\\Program.cs",
+              "ToolTip": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Median of Two Sorted Arrays\\Median of Two Sorted Arrays\\Program.cs",
+              "RelativeToolTip": "Median of Two Sorted Arrays\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:18:32.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 452,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
