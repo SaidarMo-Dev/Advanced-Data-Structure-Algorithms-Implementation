@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentess\\Check Parentess\\Check Parentess.csproj": {}
+    "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentesis\\Check Parentess\\Check Parentess.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentess\\Check Parentess\\Check Parentess.csproj": {
+    "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentesis\\Check Parentess\\Check Parentess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentess\\Check Parentess\\Check Parentess.csproj",
+        "projectUniqueName": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentesis\\Check Parentess\\Check Parentess.csproj",
         "projectName": "Check Parentess",
-        "projectPath": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentess\\Check Parentess\\Check Parentess.csproj",
+        "projectPath": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentesis\\Check Parentess\\Check Parentess.csproj",
         "packagesPath": "C:\\Users\\moham\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentess\\Check Parentess\\obj\\",
+        "outputPath": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentesis\\Check Parentess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

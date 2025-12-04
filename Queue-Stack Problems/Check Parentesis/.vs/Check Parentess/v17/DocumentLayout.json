@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentess\\",
+  "WorkspaceRootPath": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentesis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68BF86FF-5C11-4CA5-8234-EAF1D067C360}|Check Parentess\\Check Parentess.csproj|c:\\projects\\advanced-data-structure-algorithms-implementation\\queue-stack problems\\check parentess\\check parentess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68BF86FF-5C11-4CA5-8234-EAF1D067C360}|Check Parentess\\Check Parentess.csproj|c:\\projects\\advanced-data-structure-algorithms-implementation\\queue-stack problems\\check parentesis\\check parentess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68BF86FF-5C11-4CA5-8234-EAF1D067C360}|Check Parentess\\Check Parentess.csproj|solutionrelative:check parentess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentess\\Check Parentess\\Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentesis\\Check Parentess\\Program.cs",
               "RelativeDocumentMoniker": "Check Parentess\\Program.cs",
-              "ToolTip": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentess\\Check Parentess\\Program.cs",
+              "ToolTip": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Check Parentesis\\Check Parentess\\Program.cs",
               "RelativeToolTip": "Check Parentess\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAASwB8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-02T19:24:49.149Z",
               "EditorCaption": ""

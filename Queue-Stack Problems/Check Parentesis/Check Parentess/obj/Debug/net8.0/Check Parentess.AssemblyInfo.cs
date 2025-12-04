@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Check Parentess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ad49022764c44352ddfee03e54b337b82305aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+342817a3fc4e9f1e02ba025631a86d40d49d110c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Check Parentess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Check Parentess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
