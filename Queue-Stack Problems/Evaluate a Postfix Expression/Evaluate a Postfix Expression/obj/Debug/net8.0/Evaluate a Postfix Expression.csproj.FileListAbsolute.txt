@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\bin\Debug\net8.0\Evaluate a Postfix Expression.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\bin\Debug\net8.0\Evaluate a Postfix Expression.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\bin\Debug\net8.0\Evaluate a Postfix Expression.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\bin\Debug\net8.0\Evaluate a Postfix Expression.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\bin\Debug\net8.0\Evaluate a Postfix Expression.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\Evaluate a Postfix Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\Evaluate a Postfix Expression.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\Evaluate a Postfix Expression.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\Evaluate a Postfix Expression.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\Evaluate a Postfix Expression.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\Evaluate a Postfix Expression.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\refint\Evaluate a Postfix Expression.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\Evaluate a Postfix Expression.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\Evaluate a Postfix Expression.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Evaluate a Postfix Expression\Evaluate a Postfix Expression\obj\Debug\net8.0\ref\Evaluate a Postfix Expression.dll
