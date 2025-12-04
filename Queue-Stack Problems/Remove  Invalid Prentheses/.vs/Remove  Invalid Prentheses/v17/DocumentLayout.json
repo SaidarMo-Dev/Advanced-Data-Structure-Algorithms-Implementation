@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Remove  Invalid Prentheses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612F6090-774D-4C0F-8076-AF7C59F1984F}|Remove  Invalid Prentheses\\Remove  Invalid Prentheses.csproj|c:\\projects\\advanced-data-structure-algorithms-implementation\\queue-stack problems\\remove  invalid prentheses\\remove  invalid prentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{612F6090-774D-4C0F-8076-AF7C59F1984F}|Remove  Invalid Prentheses\\Remove  Invalid Prentheses.csproj|solutionrelative:remove  invalid prentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Remove  Invalid Prentheses\\Remove  Invalid Prentheses\\Program.cs",
+              "RelativeDocumentMoniker": "Remove  Invalid Prentheses\\Program.cs",
+              "ToolTip": "C:\\Projects\\Advanced-Data-Structure-Algorithms-Implementation\\Queue-Stack Problems\\Remove  Invalid Prentheses\\Remove  Invalid Prentheses\\Program.cs",
+              "RelativeToolTip": "Remove  Invalid Prentheses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:31:33.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

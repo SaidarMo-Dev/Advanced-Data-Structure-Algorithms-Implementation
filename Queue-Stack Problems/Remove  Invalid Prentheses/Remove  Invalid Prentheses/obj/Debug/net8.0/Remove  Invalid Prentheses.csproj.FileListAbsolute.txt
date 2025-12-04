@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\bin\Debug\net8.0\Remove  Invalid Prentheses.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\bin\Debug\net8.0\Remove  Invalid Prentheses.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\bin\Debug\net8.0\Remove  Invalid Prentheses.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\bin\Debug\net8.0\Remove  Invalid Prentheses.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\bin\Debug\net8.0\Remove  Invalid Prentheses.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\Remove  Invalid Prentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\Remove  Invalid Prentheses.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\Remove  Invalid Prentheses.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\Remove  Invalid Prentheses.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\Remove  Invalid Prentheses.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\Remove  Invalid Prentheses.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\refint\Remove  Invalid Prentheses.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\Remove  Invalid Prentheses.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\Remove  Invalid Prentheses.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Queue-Stack Problems\Remove  Invalid Prentheses\Remove  Invalid Prentheses\obj\Debug\net8.0\ref\Remove  Invalid Prentheses.dll
