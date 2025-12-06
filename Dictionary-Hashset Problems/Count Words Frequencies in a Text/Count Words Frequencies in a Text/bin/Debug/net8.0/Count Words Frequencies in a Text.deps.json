@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Count Words Frequencies in a Text/1.0.0": {
+        "runtime": {
+          "Count Words Frequencies in a Text.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count Words Frequencies in a Text/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
