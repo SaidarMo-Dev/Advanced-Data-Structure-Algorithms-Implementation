@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\bin\Debug\net8.0\Dynamic Skill Matching.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\bin\Debug\net8.0\Dynamic Skill Matching.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\bin\Debug\net8.0\Dynamic Skill Matching.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\bin\Debug\net8.0\Dynamic Skill Matching.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\bin\Debug\net8.0\Dynamic Skill Matching.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\Dynamic Skill Matching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\Dynamic Skill Matching.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\Dynamic Skill Matching.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\Dynamic Skill Matching.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\Dynamic Skill Matching.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\Dynamic Skill Matching.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\refint\Dynamic Skill Matching.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\Dynamic Skill Matching.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\Dynamic Skill Matching.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary & Hashset Problems\Dynamic Skill Matching\Dynamic Skill Matching\obj\Debug\net8.0\ref\Dynamic Skill Matching.dll
