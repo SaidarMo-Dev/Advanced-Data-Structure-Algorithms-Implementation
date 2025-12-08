@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Elements Not in The Second Array/1.0.0": {
+        "runtime": {
+          "Elements Not in The Second Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elements Not in The Second Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
