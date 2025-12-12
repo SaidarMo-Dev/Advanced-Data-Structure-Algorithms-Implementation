@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\bin\Debug\net8.0\Set-contains-multiple-ranges.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\bin\Debug\net8.0\Set-contains-multiple-ranges.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\bin\Debug\net8.0\Set-contains-multiple-ranges.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\bin\Debug\net8.0\Set-contains-multiple-ranges.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\bin\Debug\net8.0\Set-contains-multiple-ranges.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\Set-contains-multiple-ranges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\Set-contains-multiple-ranges.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\Set-contains-multiple-ranges.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\Set-contains-multiple-ranges.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\Set-contains-multiple-ranges.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\Set-contains-multiple-ranges.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\refint\Set-contains-multiple-ranges.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\Set-contains-multiple-ranges.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\Set-contains-multiple-ranges.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Set-contains-multiple-ranges\Set-contains-multiple-ranges\obj\Debug\net8.0\ref\Set-contains-multiple-ranges.dll
