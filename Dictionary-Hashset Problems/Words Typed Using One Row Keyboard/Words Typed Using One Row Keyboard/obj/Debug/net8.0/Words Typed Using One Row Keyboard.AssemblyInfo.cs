@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Words Typed Using One Row Keyboard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6be3d7e3b7c4379913a9508d3d1f4422fe3c53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd92bb9ac4d1502bfa12fe9658a9935781fd667")]
 [assembly: System.Reflection.AssemblyProductAttribute("Words Typed Using One Row Keyboard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Words Typed Using One Row Keyboard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

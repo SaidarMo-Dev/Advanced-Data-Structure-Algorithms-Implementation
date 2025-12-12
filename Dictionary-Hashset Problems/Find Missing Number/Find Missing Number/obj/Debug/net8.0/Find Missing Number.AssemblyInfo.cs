@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Find Missing Number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88373f89b5b52384b503d38e924de20484cff96d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd92bb9ac4d1502bfa12fe9658a9935781fd667")]
 [assembly: System.Reflection.AssemblyProductAttribute("Find Missing Number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Find Missing Number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

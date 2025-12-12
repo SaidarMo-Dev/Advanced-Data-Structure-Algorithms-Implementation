@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Count Words Frequencies in a Text")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28160b955ff313141d616100ee70cc020fdf4c33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd92bb9ac4d1502bfa12fe9658a9935781fd667")]
 [assembly: System.Reflection.AssemblyProductAttribute("Count Words Frequencies in a Text")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Count Words Frequencies in a Text")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

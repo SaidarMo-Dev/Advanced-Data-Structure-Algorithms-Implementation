@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Check if Two Arrays are Disjoint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a133af8aa8be68875ec198944a27ab08df357c7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd92bb9ac4d1502bfa12fe9658a9935781fd667")]
 [assembly: System.Reflection.AssemblyProductAttribute("Check if Two Arrays are Disjoint")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Check if Two Arrays are Disjoint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

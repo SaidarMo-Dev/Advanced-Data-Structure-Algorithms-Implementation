@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Find All Unique Elements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+073a96dba4463e8b4ce4d39041857566975a3963")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fd92bb9ac4d1502bfa12fe9658a9935781fd667")]
 [assembly: System.Reflection.AssemblyProductAttribute("Find All Unique Elements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Find All Unique Elements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
