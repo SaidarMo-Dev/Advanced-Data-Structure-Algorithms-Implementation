@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\bin\Debug\net8.0\Live-Chat-Application.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\bin\Debug\net8.0\Live-Chat-Application.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\bin\Debug\net8.0\Live-Chat-Application.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\bin\Debug\net8.0\Live-Chat-Application.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\bin\Debug\net8.0\Live-Chat-Application.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\Live-Chat-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\Live-Chat-Application.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\Live-Chat-Application.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\Live-Chat-Application.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\Live-Chat-Application.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\Live-Chat-Application.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\refint\Live-Chat-Application.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\Live-Chat-Application.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\Live-Chat-Application.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Live-Chat-Application\Live-Chat-Application\obj\Debug\net8.0\ref\Live-Chat-Application.dll
