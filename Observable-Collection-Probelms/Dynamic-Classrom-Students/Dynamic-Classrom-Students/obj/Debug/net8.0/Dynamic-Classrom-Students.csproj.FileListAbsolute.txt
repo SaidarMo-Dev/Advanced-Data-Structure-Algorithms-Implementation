@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\bin\Debug\net8.0\Dynamic-Classrom-Students.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\bin\Debug\net8.0\Dynamic-Classrom-Students.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\bin\Debug\net8.0\Dynamic-Classrom-Students.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\bin\Debug\net8.0\Dynamic-Classrom-Students.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\bin\Debug\net8.0\Dynamic-Classrom-Students.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\Dynamic-Classrom-Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\Dynamic-Classrom-Students.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\Dynamic-Classrom-Students.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\Dynamic-Classrom-Students.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\Dynamic-Classrom-Students.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\Dynamic-Classrom-Students.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\refint\Dynamic-Classrom-Students.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\Dynamic-Classrom-Students.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\Dynamic-Classrom-Students.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Dictionary-Hashset Problems\Dynamic-Classrom-Students\Dynamic-Classrom-Students\obj\Debug\net8.0\ref\Dynamic-Classrom-Students.dll
