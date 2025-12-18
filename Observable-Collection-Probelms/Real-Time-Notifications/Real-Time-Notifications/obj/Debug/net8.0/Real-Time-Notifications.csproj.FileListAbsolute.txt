@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\bin\Debug\net8.0\Real-Time-Notifications.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\bin\Debug\net8.0\Real-Time-Notifications.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\bin\Debug\net8.0\Real-Time-Notifications.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\bin\Debug\net8.0\Real-Time-Notifications.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\bin\Debug\net8.0\Real-Time-Notifications.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\Real-Time-Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\Real-Time-Notifications.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\Real-Time-Notifications.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\Real-Time-Notifications.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\Real-Time-Notifications.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\Real-Time-Notifications.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\refint\Real-Time-Notifications.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\Real-Time-Notifications.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\Real-Time-Notifications.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Real-Time-Notifications\Real-Time-Notifications\obj\Debug\net8.0\ref\Real-Time-Notifications.dll
