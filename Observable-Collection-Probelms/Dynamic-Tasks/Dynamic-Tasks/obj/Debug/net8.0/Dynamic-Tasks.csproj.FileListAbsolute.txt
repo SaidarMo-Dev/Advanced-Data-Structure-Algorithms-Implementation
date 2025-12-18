@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\bin\Debug\net8.0\Dynamic-Tasks.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\bin\Debug\net8.0\Dynamic-Tasks.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\bin\Debug\net8.0\Dynamic-Tasks.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\bin\Debug\net8.0\Dynamic-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\bin\Debug\net8.0\Dynamic-Tasks.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\Dynamic-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\Dynamic-Tasks.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\Dynamic-Tasks.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\Dynamic-Tasks.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\Dynamic-Tasks.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\Dynamic-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\refint\Dynamic-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\Dynamic-Tasks.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\Dynamic-Tasks.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Observable-Collection-Probelms\Dynamic-Tasks\Dynamic-Tasks\obj\Debug\net8.0\ref\Dynamic-Tasks.dll
