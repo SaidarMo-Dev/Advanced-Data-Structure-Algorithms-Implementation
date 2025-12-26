@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\bin\Debug\net8.0\Flight-Seat-Reservations.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\bin\Debug\net8.0\Flight-Seat-Reservations.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\bin\Debug\net8.0\Flight-Seat-Reservations.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\bin\Debug\net8.0\Flight-Seat-Reservations.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\bin\Debug\net8.0\Flight-Seat-Reservations.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\Flight-Seat-Reservations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\Flight-Seat-Reservations.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\Flight-Seat-Reservations.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\Flight-Seat-Reservations.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\Flight-Seat-Reservations.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\Flight-Seat-Reservations.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\refint\Flight-Seat-Reservations.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\Flight-Seat-Reservations.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\Flight-Seat-Reservations.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Flight-Seat-Reservations\Flight-Seat-Reservations\obj\Debug\net8.0\ref\Flight-Seat-Reservations.dll
