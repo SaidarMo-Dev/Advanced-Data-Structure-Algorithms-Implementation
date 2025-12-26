@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\bin\Debug\net8.0\Dynamic-Seating-Arrangement.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\bin\Debug\net8.0\Dynamic-Seating-Arrangement.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\bin\Debug\net8.0\Dynamic-Seating-Arrangement.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\bin\Debug\net8.0\Dynamic-Seating-Arrangement.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\bin\Debug\net8.0\Dynamic-Seating-Arrangement.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\Dynamic-Seating-Arrangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\Dynamic-Seating-Arrangement.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\Dynamic-Seating-Arrangement.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\Dynamic-Seating-Arrangement.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\Dynamic-Seating-Arrangement.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\Dynamic-Seating-Arrangement.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\refint\Dynamic-Seating-Arrangement.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\Dynamic-Seating-Arrangement.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\Dynamic-Seating-Arrangement.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Dynamic-Seating-Arrangement\Dynamic-Seating-Arrangement\obj\Debug\net8.0\ref\Dynamic-Seating-Arrangement.dll
