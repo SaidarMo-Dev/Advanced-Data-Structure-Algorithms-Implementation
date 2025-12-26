@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\bin\Debug\net8.0\Survey-Responses.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\bin\Debug\net8.0\Survey-Responses.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\bin\Debug\net8.0\Survey-Responses.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\bin\Debug\net8.0\Survey-Responses.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\bin\Debug\net8.0\Survey-Responses.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\Survey-Responses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\Survey-Responses.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\Survey-Responses.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\Survey-Responses.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\Survey-Responses.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\Survey-Responses.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\refint\Survey-Responses.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\Survey-Responses.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\Survey-Responses.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Survey-Responses\Survey-Responses\obj\Debug\net8.0\ref\Survey-Responses.dll
