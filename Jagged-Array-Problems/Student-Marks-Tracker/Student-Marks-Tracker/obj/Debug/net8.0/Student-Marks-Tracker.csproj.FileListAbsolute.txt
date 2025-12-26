@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\bin\Debug\net8.0\Student-Marks-Tracker.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\bin\Debug\net8.0\Student-Marks-Tracker.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\bin\Debug\net8.0\Student-Marks-Tracker.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\bin\Debug\net8.0\Student-Marks-Tracker.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\bin\Debug\net8.0\Student-Marks-Tracker.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\Student-Marks-Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\Student-Marks-Tracker.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\Student-Marks-Tracker.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\Student-Marks-Tracker.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\Student-Marks-Tracker.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\Student-Marks-Tracker.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\refint\Student-Marks-Tracker.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\Student-Marks-Tracker.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\Student-Marks-Tracker.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Jagged-Array-Problems\Student-Marks-Tracker\Student-Marks-Tracker\obj\Debug\net8.0\ref\Student-Marks-Tracker.dll

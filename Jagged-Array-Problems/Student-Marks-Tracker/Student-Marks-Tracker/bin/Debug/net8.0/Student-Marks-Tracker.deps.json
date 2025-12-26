@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Student-Marks-Tracker/1.0.0": {
+        "runtime": {
+          "Student-Marks-Tracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Student-Marks-Tracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
