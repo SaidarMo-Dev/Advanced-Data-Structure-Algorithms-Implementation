@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\bin\Debug\net8.0\Track-Player-Stats.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\bin\Debug\net8.0\Track-Player-Stats.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\bin\Debug\net8.0\Track-Player-Stats.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\bin\Debug\net8.0\Track-Player-Stats.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\bin\Debug\net8.0\Track-Player-Stats.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\Track-Player-Stats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\Track-Player-Stats.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\Track-Player-Stats.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\Track-Player-Stats.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\Track-Player-Stats.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\Track-Player-Stats.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\refint\Track-Player-Stats.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\Track-Player-Stats.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\Track-Player-Stats.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Track-Player-Stats\Track-Player-Stats\obj\Debug\net8.0\ref\Track-Player-Stats.dll
