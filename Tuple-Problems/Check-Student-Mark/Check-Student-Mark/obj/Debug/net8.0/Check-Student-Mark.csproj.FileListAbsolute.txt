@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\bin\Debug\net8.0\Check-Student-Mark.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\bin\Debug\net8.0\Check-Student-Mark.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\bin\Debug\net8.0\Check-Student-Mark.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\bin\Debug\net8.0\Check-Student-Mark.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\bin\Debug\net8.0\Check-Student-Mark.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\Check-Student-Mark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\Check-Student-Mark.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\Check-Student-Mark.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\Check-Student-Mark.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\Check-Student-Mark.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\Check-Student-Mark.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\refint\Check-Student-Mark.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\Check-Student-Mark.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\Check-Student-Mark.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Check-Student-Mark\Check-Student-Mark\obj\Debug\net8.0\ref\Check-Student-Mark.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Check-Student-Mark/1.0.0": {
+        "runtime": {
+          "Check-Student-Mark.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check-Student-Mark/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
