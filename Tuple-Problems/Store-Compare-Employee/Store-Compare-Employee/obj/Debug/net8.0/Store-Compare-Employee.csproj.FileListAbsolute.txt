@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\bin\Debug\net8.0\Store-Compare-Employee.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\bin\Debug\net8.0\Store-Compare-Employee.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\bin\Debug\net8.0\Store-Compare-Employee.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\bin\Debug\net8.0\Store-Compare-Employee.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\bin\Debug\net8.0\Store-Compare-Employee.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\Store-Compare-Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\Store-Compare-Employee.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\Store-Compare-Employee.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\Store-Compare-Employee.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\Store-Compare-Employee.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\Store-Compare-Employee.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\refint\Store-Compare-Employee.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\Store-Compare-Employee.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\Store-Compare-Employee.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Store-Compare-Employee\Store-Compare-Employee\obj\Debug\net8.0\ref\Store-Compare-Employee.dll
