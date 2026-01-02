@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\bin\Debug\net8.0\Light-Control-System.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\bin\Debug\net8.0\Light-Control-System.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\bin\Debug\net8.0\Light-Control-System.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\bin\Debug\net8.0\Light-Control-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\bin\Debug\net8.0\Light-Control-System.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\Light-Control-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\Light-Control-System.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\Light-Control-System.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\Light-Control-System.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\Light-Control-System.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\Light-Control-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\refint\Light-Control-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\Light-Control-System.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\Light-Control-System.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Light-Control-System\Light-Control-System\obj\Debug\net8.0\ref\Light-Control-System.dll
