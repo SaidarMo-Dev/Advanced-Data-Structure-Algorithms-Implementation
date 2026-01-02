@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\bin\Debug\net8.0\Scheduiling-Tasks.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\bin\Debug\net8.0\Scheduiling-Tasks.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\bin\Debug\net8.0\Scheduiling-Tasks.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\bin\Debug\net8.0\Scheduiling-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\bin\Debug\net8.0\Scheduiling-Tasks.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\Scheduiling-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\Scheduiling-Tasks.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\Scheduiling-Tasks.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\Scheduiling-Tasks.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\Scheduiling-Tasks.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\Scheduiling-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\refint\Scheduiling-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\Scheduiling-Tasks.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\Scheduiling-Tasks.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Tuple-Problems\Scheduiling-Tasks\Scheduiling-Tasks\obj\Debug\net8.0\ref\Scheduiling-Tasks.dll
