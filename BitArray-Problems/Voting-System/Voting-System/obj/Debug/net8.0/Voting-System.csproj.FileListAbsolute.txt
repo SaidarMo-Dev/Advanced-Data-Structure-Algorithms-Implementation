@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\bin\Debug\net8.0\Voting-System.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\bin\Debug\net8.0\Voting-System.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\bin\Debug\net8.0\Voting-System.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\bin\Debug\net8.0\Voting-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\bin\Debug\net8.0\Voting-System.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\Voting-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\Voting-System.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\Voting-System.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\Voting-System.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\Voting-System.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\Voting-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\refint\Voting-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\Voting-System.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\Voting-System.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Voting-System\Voting-System\obj\Debug\net8.0\ref\Voting-System.dll
