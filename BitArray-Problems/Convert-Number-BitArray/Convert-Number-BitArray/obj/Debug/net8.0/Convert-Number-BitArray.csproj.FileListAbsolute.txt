@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\bin\Debug\net8.0\Convert-Number-BitArray.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\bin\Debug\net8.0\Convert-Number-BitArray.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\bin\Debug\net8.0\Convert-Number-BitArray.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\bin\Debug\net8.0\Convert-Number-BitArray.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\bin\Debug\net8.0\Convert-Number-BitArray.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\Convert-Number-BitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\Convert-Number-BitArray.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\Convert-Number-BitArray.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\Convert-Number-BitArray.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\Convert-Number-BitArray.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\Convert-Number-BitArray.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\refint\Convert-Number-BitArray.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\Convert-Number-BitArray.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\Convert-Number-BitArray.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-Number-BitArray\Convert-Number-BitArray\obj\Debug\net8.0\ref\Convert-Number-BitArray.dll
