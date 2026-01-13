@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\bin\Debug\net8.0\Sorted-unique-list.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\bin\Debug\net8.0\Sorted-unique-list.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\bin\Debug\net8.0\Sorted-unique-list.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\bin\Debug\net8.0\Sorted-unique-list.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\bin\Debug\net8.0\Sorted-unique-list.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\Sorted-unique-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\Sorted-unique-list.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\Sorted-unique-list.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\Sorted-unique-list.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\Sorted-unique-list.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\Sorted-unique-list.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\refint\Sorted-unique-list.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\Sorted-unique-list.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\Sorted-unique-list.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Sorted-unique-list\Sorted-unique-list\obj\Debug\net8.0\ref\Sorted-unique-list.dll
