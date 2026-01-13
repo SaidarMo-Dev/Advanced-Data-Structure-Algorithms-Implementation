@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\bin\Debug\net8.0\Priority-Tasks.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\bin\Debug\net8.0\Priority-Tasks.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\bin\Debug\net8.0\Priority-Tasks.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\bin\Debug\net8.0\Priority-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\bin\Debug\net8.0\Priority-Tasks.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\Priority-Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\Priority-Tasks.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\Priority-Tasks.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\Priority-Tasks.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\Priority-Tasks.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\Priority-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\refint\Priority-Tasks.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\Priority-Tasks.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\Priority-Tasks.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\Priority-Tasks\Priority-Tasks\obj\Debug\net8.0\ref\Priority-Tasks.dll
