@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\bin\Debug\net8.0\AutoComplete-Suggestions.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\bin\Debug\net8.0\AutoComplete-Suggestions.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\bin\Debug\net8.0\AutoComplete-Suggestions.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\bin\Debug\net8.0\AutoComplete-Suggestions.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\bin\Debug\net8.0\AutoComplete-Suggestions.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\AutoComplete-Suggestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\AutoComplete-Suggestions.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\AutoComplete-Suggestions.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\AutoComplete-Suggestions.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\AutoComplete-Suggestions.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\AutoComplete-Suggestions.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\refint\AutoComplete-Suggestions.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\AutoComplete-Suggestions.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\AutoComplete-Suggestions.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\AutoComplete-Suggestions\AutoComplete-Suggestions\obj\Debug\net8.0\ref\AutoComplete-Suggestions.dll
