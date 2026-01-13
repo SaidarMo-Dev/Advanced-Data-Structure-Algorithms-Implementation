@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\bin\Debug\net8.0\HashTable-Copy.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\bin\Debug\net8.0\HashTable-Copy.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\bin\Debug\net8.0\HashTable-Copy.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\bin\Debug\net8.0\HashTable-Copy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\bin\Debug\net8.0\HashTable-Copy.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\HashTable-Copy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\HashTable-Copy.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\HashTable-Copy.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\HashTable-Copy.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\HashTable-Copy.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\HashTable-Copy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\refint\HashTable-Copy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\HashTable-Copy.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\HashTable-Copy.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\HashTable-SortedList-SortedSet-Problems\HashTable-Copy\HashTable-Copy\obj\Debug\net8.0\ref\HashTable-Copy.dll
