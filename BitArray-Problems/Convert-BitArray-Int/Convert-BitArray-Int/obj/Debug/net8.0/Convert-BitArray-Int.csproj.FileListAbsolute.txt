@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\bin\Debug\net8.0\Convert-BitArray-Int.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\bin\Debug\net8.0\Convert-BitArray-Int.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\bin\Debug\net8.0\Convert-BitArray-Int.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\bin\Debug\net8.0\Convert-BitArray-Int.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\bin\Debug\net8.0\Convert-BitArray-Int.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\Convert-BitArray-Int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\Convert-BitArray-Int.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\Convert-BitArray-Int.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\Convert-BitArray-Int.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\Convert-BitArray-Int.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\Convert-BitArray-Int.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\refint\Convert-BitArray-Int.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\Convert-BitArray-Int.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\Convert-BitArray-Int.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\BitArray-Problems\Convert-BitArray-Int\Convert-BitArray-Int\obj\Debug\net8.0\ref\Convert-BitArray-Int.dll
