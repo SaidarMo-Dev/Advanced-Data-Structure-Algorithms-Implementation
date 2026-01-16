@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\bin\Debug\net8.0\Hierarchical-employee-management.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\bin\Debug\net8.0\Hierarchical-employee-management.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\bin\Debug\net8.0\Hierarchical-employee-management.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\bin\Debug\net8.0\Hierarchical-employee-management.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\bin\Debug\net8.0\Hierarchical-employee-management.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\Hierarchical-employee-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\Hierarchical-employee-management.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\Hierarchical-employee-management.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\Hierarchical-employee-management.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\Hierarchical-employee-management.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\Hierarchical-employee-management.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\refint\Hierarchical-employee-management.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\Hierarchical-employee-management.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\Hierarchical-employee-management.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Hierarchical-employee-management\Hierarchical-employee-management\obj\Debug\net8.0\ref\Hierarchical-employee-management.dll
