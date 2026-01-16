@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\bin\Debug\net8.0\File-System-Orginazation.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\bin\Debug\net8.0\File-System-Orginazation.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\bin\Debug\net8.0\File-System-Orginazation.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\bin\Debug\net8.0\File-System-Orginazation.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\bin\Debug\net8.0\File-System-Orginazation.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\File-System-Orginazation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\File-System-Orginazation.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\File-System-Orginazation.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\File-System-Orginazation.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\File-System-Orginazation.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\File-System-Orginazation.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\refint\File-System-Orginazation.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\File-System-Orginazation.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\File-System-Orginazation.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-System-Orginazation\File-System-Orginazation\obj\Debug\net8.0\ref\File-System-Orginazation.dll
