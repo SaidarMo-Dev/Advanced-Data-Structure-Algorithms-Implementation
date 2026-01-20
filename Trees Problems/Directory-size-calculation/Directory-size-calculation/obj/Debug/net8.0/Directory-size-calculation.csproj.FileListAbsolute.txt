@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\bin\Debug\net8.0\Directory-size-calculation.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\bin\Debug\net8.0\Directory-size-calculation.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\bin\Debug\net8.0\Directory-size-calculation.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\bin\Debug\net8.0\Directory-size-calculation.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\bin\Debug\net8.0\Directory-size-calculation.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\Directory-size-calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\Directory-size-calculation.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\Directory-size-calculation.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\Directory-size-calculation.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\Directory-size-calculation.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\Directory-size-calculation.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\refint\Directory-size-calculation.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\Directory-size-calculation.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\Directory-size-calculation.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Directory-size-calculation\Directory-size-calculation\obj\Debug\net8.0\ref\Directory-size-calculation.dll
