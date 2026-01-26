@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\bin\Debug\net8.0\Representing-social-network.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\bin\Debug\net8.0\Representing-social-network.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\bin\Debug\net8.0\Representing-social-network.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\bin\Debug\net8.0\Representing-social-network.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\bin\Debug\net8.0\Representing-social-network.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\Representing-social-network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\Representing-social-network.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\Representing-social-network.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\Representing-social-network.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\Representing-social-network.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\Representing-social-network.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\refint\Representing-social-network.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\Representing-social-network.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\Representing-social-network.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Representing-social-network\Representing-social-network\obj\Debug\net8.0\ref\Representing-social-network.dll
