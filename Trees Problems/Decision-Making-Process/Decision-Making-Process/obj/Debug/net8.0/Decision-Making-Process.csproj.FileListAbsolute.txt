@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\bin\Debug\net8.0\Decision-Making-Process.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\bin\Debug\net8.0\Decision-Making-Process.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\bin\Debug\net8.0\Decision-Making-Process.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\bin\Debug\net8.0\Decision-Making-Process.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\bin\Debug\net8.0\Decision-Making-Process.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\Decision-Making-Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\Decision-Making-Process.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\Decision-Making-Process.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\Decision-Making-Process.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\Decision-Making-Process.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\Decision-Making-Process.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\refint\Decision-Making-Process.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\Decision-Making-Process.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\Decision-Making-Process.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Decision-Making-Process\Decision-Making-Process\obj\Debug\net8.0\ref\Decision-Making-Process.dll
