@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\bin\Debug\net8.0\BST-product-inventoy.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\bin\Debug\net8.0\BST-product-inventoy.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\bin\Debug\net8.0\BST-product-inventoy.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\bin\Debug\net8.0\BST-product-inventoy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\bin\Debug\net8.0\BST-product-inventoy.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\BST-product-inventoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\BST-product-inventoy.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\BST-product-inventoy.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\BST-product-inventoy.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\BST-product-inventoy.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\BST-product-inventoy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\refint\BST-product-inventoy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\BST-product-inventoy.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\BST-product-inventoy.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-product-inventoy\BST-product-inventoy\obj\Debug\net8.0\ref\BST-product-inventoy.dll
