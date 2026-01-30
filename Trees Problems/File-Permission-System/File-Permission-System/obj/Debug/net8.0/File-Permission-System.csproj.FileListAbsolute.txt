@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\bin\Debug\net8.0\File-Permission-System.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\bin\Debug\net8.0\File-Permission-System.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\bin\Debug\net8.0\File-Permission-System.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\bin\Debug\net8.0\File-Permission-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\bin\Debug\net8.0\File-Permission-System.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\File-Permission-System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\File-Permission-System.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\File-Permission-System.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\File-Permission-System.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\File-Permission-System.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\File-Permission-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\refint\File-Permission-System.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\File-Permission-System.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\File-Permission-System.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\File-Permission-System\File-Permission-System\obj\Debug\net8.0\ref\File-Permission-System.dll
