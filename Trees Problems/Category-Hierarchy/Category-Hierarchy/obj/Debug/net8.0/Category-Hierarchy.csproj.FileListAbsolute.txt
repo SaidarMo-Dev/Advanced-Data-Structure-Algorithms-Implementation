@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\bin\Debug\net8.0\Category-Hierarchy.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\bin\Debug\net8.0\Category-Hierarchy.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\bin\Debug\net8.0\Category-Hierarchy.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\bin\Debug\net8.0\Category-Hierarchy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\bin\Debug\net8.0\Category-Hierarchy.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\Category-Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\Category-Hierarchy.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\Category-Hierarchy.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\Category-Hierarchy.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\Category-Hierarchy.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\Category-Hierarchy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\refint\Category-Hierarchy.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\Category-Hierarchy.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\Category-Hierarchy.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Category-Hierarchy\Category-Hierarchy\obj\Debug\net8.0\ref\Category-Hierarchy.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Category-Hierarchy/1.0.0": {
+        "runtime": {
+          "Category-Hierarchy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Category-Hierarchy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
