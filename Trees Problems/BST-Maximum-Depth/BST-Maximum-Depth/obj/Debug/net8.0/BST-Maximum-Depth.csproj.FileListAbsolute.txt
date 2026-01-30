@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\bin\Debug\net8.0\BST-Maximum-Depth.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\bin\Debug\net8.0\BST-Maximum-Depth.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\bin\Debug\net8.0\BST-Maximum-Depth.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\bin\Debug\net8.0\BST-Maximum-Depth.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\bin\Debug\net8.0\BST-Maximum-Depth.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\BST-Maximum-Depth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\BST-Maximum-Depth.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\BST-Maximum-Depth.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\BST-Maximum-Depth.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\BST-Maximum-Depth.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\BST-Maximum-Depth.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\refint\BST-Maximum-Depth.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\BST-Maximum-Depth.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\BST-Maximum-Depth.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\BST-Maximum-Depth\BST-Maximum-Depth\obj\Debug\net8.0\ref\BST-Maximum-Depth.dll
