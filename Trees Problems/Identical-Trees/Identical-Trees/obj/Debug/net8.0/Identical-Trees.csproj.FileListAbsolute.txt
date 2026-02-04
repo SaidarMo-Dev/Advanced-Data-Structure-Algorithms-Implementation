@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\bin\Debug\net8.0\Identical-Trees.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\bin\Debug\net8.0\Identical-Trees.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\bin\Debug\net8.0\Identical-Trees.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\bin\Debug\net8.0\Identical-Trees.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\bin\Debug\net8.0\Identical-Trees.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\Identical-Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\Identical-Trees.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\Identical-Trees.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\Identical-Trees.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\Identical-Trees.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\Identical-Trees.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\refint\Identical-Trees.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\Identical-Trees.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\Identical-Trees.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Identical-Trees\Identical-Trees\obj\Debug\net8.0\ref\Identical-Trees.dll
