@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Max-Value-PerTreeLevel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e26dd91e03322a8a1c9af424c236a838ce4c6ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7fe72a51400be97d6967ab9483c9b48ab066cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Max-Value-PerTreeLevel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Max-Value-PerTreeLevel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

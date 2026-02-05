@@ -1,0 +1,15 @@
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\bin\Debug\net8.0\Max-Value-PerTreeLevel.exe
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\bin\Debug\net8.0\Max-Value-PerTreeLevel.deps.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\bin\Debug\net8.0\Max-Value-PerTreeLevel.runtimeconfig.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\bin\Debug\net8.0\Max-Value-PerTreeLevel.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\bin\Debug\net8.0\Max-Value-PerTreeLevel.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\Max-Value-PerTreeLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\Max-Value-PerTreeLevel.AssemblyInfoInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\Max-Value-PerTreeLevel.AssemblyInfo.cs
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\Max-Value-PerTreeLevel.csproj.CoreCompileInputs.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\Max-Value-PerTreeLevel.sourcelink.json
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\Max-Value-PerTreeLevel.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\refint\Max-Value-PerTreeLevel.dll
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\Max-Value-PerTreeLevel.pdb
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\Max-Value-PerTreeLevel.genruntimeconfig.cache
+C:\Projects\Advanced-Data-Structure-Algorithms-Implementation\Trees Problems\Max-Value-PerTreeLevel\Max-Value-PerTreeLevel\obj\Debug\net8.0\ref\Max-Value-PerTreeLevel.dll

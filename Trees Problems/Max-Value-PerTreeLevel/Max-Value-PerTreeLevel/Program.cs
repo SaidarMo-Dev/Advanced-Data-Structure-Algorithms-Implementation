@@ -60,46 +60,78 @@
 		}
 
 		// Method to print the largest value in each level
-		public void MaxValuePerTreeLevel()
+		public List<int> LargestValuePerTreeLevel()
 		{
-			MaxValuePerTreeLevel(Root);
+			var result = new List<int>();
+
+			if (Root == null) return result;
+
+			var queue = new Queue<BinaryTreeNode>();
+			queue.Enqueue(Root);
+
+			int level = 0;
+			while (queue.Count > 0)
+			{
+				level++;
+
+				int levelSize = queue.Count;
+				int maxValue = int.MinValue;
+
+				for (int i = 0; i < levelSize; i++)
+				{
+					var node = queue.Dequeue();
+
+
+					if (node.Value > maxValue)
+						maxValue = node.Value;
+
+					if (node.Left != null)
+						queue.Enqueue(node.Left);
+
+					if (node.Right != null)
+						queue.Enqueue(node.Right);
+
+				}
+
+				result.Add(maxValue);
+
+
+
+			}
+
+			return result;
+
 		}
-		// helper method to determine the largest value in each level
-		private void MaxValuePerTreeLevel(BinaryTreeNode node, int level = 1)
-		{
-			if (node == null) return;
 
-			if (node == Root)
-				Console.WriteLine("Level 1:" + node.Value);
-
-
-		}
 
 	}
 
 	private static void Main(string[] args)
 	{
 
-		var tree1 = new Tree();
-		var tree2 = new Tree();
+		var tree = new Tree();
 
 
-		tree1.Insert(101);
-		tree1.Insert(102);
-		tree1.Insert(100);
+		tree.Insert(101);
+		tree.Insert(102);
+		tree.Insert(100);
+		tree.Insert(45);
+		tree.Insert(232);
 
-		tree2.Insert(101);
-		tree2.Insert(102);
-		tree2.Insert(100);
 
-		Console.WriteLine("Tree 1");
+		Console.WriteLine("Tree");
 		Console.WriteLine("==============================================================");
-		tree1.Print();
+		tree.Print();
 
-		Console.WriteLine("Tree 2");
-		Console.WriteLine("==============================================================");
 
-		tree2.Print();
+		var result = tree.LargestValuePerTreeLevel();
+
+		Console.WriteLine("Max value in each levlel :");
+		for (int i = 0; i < result.Count; i++)
+		{
+			Console.WriteLine($"Level {i}:{result[i]}");
+		}
+
 
 		Console.ReadKey();
 	}
